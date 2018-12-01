@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Calender </title>
+		<style>
+			table, th, td {
+				border: 1px solid black;
+				width:20;
+			}
+			td {
+				vertical-align: top;
+				text-align: left;
+			}
+		</style>
+	</head>
+	<body>
+	</body>
+
+</html>
